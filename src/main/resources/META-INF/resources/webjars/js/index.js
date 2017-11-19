@@ -1,0 +1,1 @@
+$("body").append("<h2>webjars加载index.js文件</h2>");
